@@ -1,0 +1,30 @@
+h1 {
+    color: lightcoral;
+    font-size: medium;
+}
+
+h2 {
+    color: darksalmon;
+    font-size: small;
+}
+
+h3 {
+    color: darksalmon;
+    font-size: small;
+}
+
+
+.emp {
+    font-weight: bolder;
+    background-color: yellow;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.item {
+    margin-bottom: 10px;
+}
